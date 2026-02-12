@@ -5,7 +5,7 @@
 一个 Cloudflare账号https://dash.cloudflare.com
 
 ## 使用方法：Pages+Fork公开仓库
-1. 登录自己的GitHub直接Fork本存储库https://github.com/33995331/-BPB-Worker-Panel
+1. 登录自己的GitHub直接Fork本存储库[https://github.com/33995331/-BPB-Worker-Panel]
 
 本存储库main主线默认为自动升级为最新版本，Fork后在（Actions行动）中打开工作流程就可以开启自动更新。
 
